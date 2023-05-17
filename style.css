@@ -1,0 +1,33 @@
+#container{
+    height:200px;
+    display: flex;
+    align-items: flex-end;
+}
+    
+body{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    background-color: rgb(235, 225, 212);
+}
+h1{
+    font-size: 40px;
+    color:rgb(0, 0, 0)
+}
+
+.bar{
+    width: 10px;
+    background-color: rgb(5, 54, 118);
+    margin: 1px;
+}
+button{
+    block-size: 30px;
+    background-color: rgb(20, 4, 80);
+    color: aliceblue;
+    border-radius: 10px;
+    margin: 20px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(104, 104, 104);
+}
