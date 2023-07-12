@@ -3,3 +3,6 @@ It is a Frontend and Data Structure project where I shown how the bubble sort wo
 As we play it, Bubble Sort algorithm runs for the array which are created randomly however no. of arrays are fixed.
 
 Got hepled in understanding and coding from Radu Mariescu-Istodor https://www.youtube.com/@Radu
+
+
+12 July 2023: Added the project in Github Account AkshayTyagi292 from AkshayTyagi001.
